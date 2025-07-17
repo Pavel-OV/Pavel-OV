@@ -1,4 +1,14 @@
-## Hi there 👋
+# ? Привет, я Павел! 👋
+
+## ? Технический стек
+- Python, FastAPI, Django
+- PostgreSQL, Redis
+- Docker
+-  GitHub, Git
+- 
+- 
+- 
+- DevOps
 
 <!--
 **Pavel-OV/Pavel-OV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
