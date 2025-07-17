@@ -9,6 +9,7 @@
 - 
 - 
 - DevOps
+- 
 Я начал разрабатывать личную страничку на **GitHab**е.
 <!--
 **Pavel-OV/Pavel-OV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
