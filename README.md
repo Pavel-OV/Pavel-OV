@@ -24,7 +24,7 @@ https://github.com/Pavel-OV/project_-recipe_site
 - Docker
 - 
 
-## ? Контакты
+##  Контакты
 - Email: black_yaguar@mail.ru
 - LinkedIn: 
 - Telegram: @pavel57007
